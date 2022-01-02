@@ -1,0 +1,24 @@
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\Data Analysis in Semiconductor Manufacturing.exe.config
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\Data Analysis in Semiconductor Manufacturing.exe.manifest
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\Data Analysis in Semiconductor Manufacturing.application
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\Data Analysis in Semiconductor Manufacturing.exe
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\Data Analysis in Semiconductor Manufacturing.pdb
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.dll
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.pdb
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.xml
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\DASM.csprojAssemblyReference.cache
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\Data_Analysis_in_Semiconductor_Manufacturing.Form1.resources
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\Data_Analysis_in_Semiconductor_Manufacturing.Properties.Resources.resources
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\DASM.csproj.GenerateResource.cache
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\DASM.csproj.CoreCompileInputs.cache
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\Data Analysis in Semiconductor Manufacturing.exe.manifest
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\Data Analysis in Semiconductor Manufacturing.application
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\DASM.csproj.CopyComplete
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\Data Analysis in Semiconductor Manufacturing.exe
+C:\Users\tkgsc\source\repos\Data Analysis in Semiconductor Manufacturing\Data Analysis in Semiconductor Manufacturing\obj\Debug\Data Analysis in Semiconductor Manufacturing.pdb
